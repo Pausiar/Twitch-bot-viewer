@@ -1,16 +1,21 @@
-# Twitch-bot-viewer
+# Twitch Bot Viewer
 
-The YT version is currently in build and its not working
-Also this isn't my script, i modifiyed one that i find that was kinda working and solve the errors i got
-This need a bit of RAM at least 16GB if what u are streaming its not super demanding, if it is maybe u get lag
+> **Nota:** La versión para YouTube está en desarrollo y actualmente no funciona.
 
-1- For use it u shoul unzip all the files and use the install.bat
-2- After this u have to run the main.py (u need to have python 3.11 dowloaded, un can do it from the microsoft store)
-3- When the chorome tabs open try to click the accept cookies botton or u will have to enter your link manually one by one
-4- U need to download chorome driver 133 to get the google.exe dev to make the script run (i wante dto uploaad it but its to heavy)
-https://googlechromelabs.github.io/chrome-for-testing/#stable
-5- When u have de chorome driver u need to create a shorcut of the google.exe and put ir on the script folther, u will need to remove the one tahts already there.
-6- Make shure the shorcut its called google.exe and not google-shorcut.exe or something like that
-7- This should be enough to get it running
+Este no es mi script original. Modifiqué uno que encontré que funcionaba a medias y solucioné los errores que tenía.  
+**Requisitos:** Se recomienda al menos **16GB de RAM** si lo que estás transmitiendo no es muy exigente. De lo contrario, podrías experimentar **lag**.
 
-Original script: https://github.com/Kichi779/Twitch-Viewer-Bot
+## Instrucciones de instalación y uso
+
+1. **Descomprimir** todos los archivos y ejecutar `install.bat`.
+2. Ejecutar `main.py` (necesitas tener **Python 3.11** instalado; puedes descargarlo desde la **Microsoft Store**).
+3. Cuando se abran las pestañas de **Chrome**, intenta **aceptar las cookies** o tendrás que introducir manualmente los enlaces uno por uno.
+4. Descargar **Chrome Driver 133** para que el script funcione correctamente:  
+   👉 [Descargar Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/#stable)
+5. Una vez descargado, crea un **acceso directo** de `google.exe` y colócalo en la carpeta del script.  
+   ⚠️ **Importante:** Borra el archivo `google.exe` existente antes de añadir el nuevo acceso directo.
+6. Asegúrate de que el acceso directo se llame exactamente **`google.exe`**, y no `google-shortcut.exe` o algo similar.
+7. ¡Listo! Esto debería ser suficiente para que el bot funcione correctamente.
+
+## Script original  
+🔗 [Twitch Viewer Bot - Kichi779](https://github.com/Kichi779/Twitch-Viewer-Bot)
